@@ -1,6 +1,10 @@
 # Checkers AI with Minimax 🔴⚫
 
+![Python](https://img.shields.io/badge/Python-3-3776AB?logo=python&logoColor=white) ![Pygame](https://img.shields.io/badge/Pygame-2-2E7D32) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 A fully playable Checkers game built in Python, featuring an AI opponent powered by the Minimax algorithm. 
+
+<img src="docs/gameplay.png" alt="Checkers board mid-game, with the player's valid moves highlighted in blue" width="420">
 
 ## Description
 This project implements a classic game of Checkers using the Pygame library for the graphical interface. The core feature is the AI opponent, which evaluates the board state and makes calculated decisions using a recursive Minimax algorithm. 
@@ -28,3 +32,6 @@ This project implements a classic game of Checkers using the Pygame library for 
 * Click on a red piece to see your valid moves (highlighted in blue).
 * Click a blue circle to move your piece.
 * Once you complete your turn, the AI (White pieces) will automatically calculate and make its move.
+
+## License
+[MIT](LICENSE) © 2026 Alonso Ochoa
